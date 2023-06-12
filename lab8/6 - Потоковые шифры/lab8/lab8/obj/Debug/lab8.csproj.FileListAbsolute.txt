@@ -1,0 +1,15 @@
+D:\3\КМЗИ\8\lab8\lab8\bin\Debug\lab8.exe.config
+D:\3\КМЗИ\8\lab8\lab8\bin\Debug\lab8.exe
+D:\3\КМЗИ\8\lab8\lab8\bin\Debug\lab8.pdb
+D:\3\КМЗИ\8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\3\КМЗИ\8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\8\lab8\lab8\obj\Debug\lab8.exe
+D:\3\КМЗИ\8\lab8\lab8\obj\Debug\lab8.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\bin\Debug\lab8.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\bin\Debug\lab8.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\obj\Debug\lab8.csproj.SuggestedBindingRedirects.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\obj\Debug\lab8.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab8\6 - Потоковые шифры\lab8\lab8\obj\Debug\lab8.pdb

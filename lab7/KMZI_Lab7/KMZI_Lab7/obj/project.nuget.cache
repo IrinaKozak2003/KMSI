@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eq+FSZ9q5QCpUOe+QUD926vkeX5pPy2q/SDt+sycaepaXm7/VD2EzOodePUKVsM4gKUaJI9bgq/K5BidD8VU6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\3 year\\6 сем\\КМЗИ\\lab7\\KMZI_Lab7\\KMZI_Lab7\\KMZI_Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ira\\.nuget\\packages\\bouncycastle.netcore\\1.9.0\\bouncycastle.netcore.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

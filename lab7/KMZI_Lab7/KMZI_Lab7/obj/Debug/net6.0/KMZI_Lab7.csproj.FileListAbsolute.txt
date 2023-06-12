@@ -1,0 +1,17 @@
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\KMZI_Lab7.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\KMZI_Lab7.deps.json
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\KMZI_Lab7.runtimeconfig.json
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\KMZI_Lab7.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\KMZI_Lab7.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.csproj.AssemblyReference.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.AssemblyInfoInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.AssemblyInfo.cs
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.csproj.CoreCompileInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.csproj.CopyComplete
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\refint\KMZI_Lab7.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\KMZI_Lab7.genruntimeconfig.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab7\KMZI_Lab7\KMZI_Lab7\obj\Debug\net6.0\ref\KMZI_Lab7.dll
